@@ -10,7 +10,7 @@ To help determine if a city bike program is a viable option for Des Moines Iowa,
 [NYC_CitiBike_Challenge](https://public.tableau.com/app/profile/daniel2693/viz/NYC_CitiBike_Challenge_final/NYCCitibikeStory?publish=yes)
 
 ### Top Starting Locations & Ending Locations
-![Top_Starting_Locations](/resources/1a.png)
+![Top_Starting_Locations](/resources/1a.PNG)
 ![Top_Ending_Locations](/resources/2a.png)
 The most popular places starting locations are also the most popular ending locations:
 1. Pershing Square
